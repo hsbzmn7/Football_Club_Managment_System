@@ -1,0 +1,12 @@
+1 ManUtd 28 01 08 1878
+2 Chelsea 23 10 03 1905
+3 Real_Madrid 23 06 03 1902
+4 Barcelona 18 29 11 1899
+5 Munich 18 27 02 1900
+6 Arsenal 33 01 08 1886
+7 Liverpool 28 01 08 1892
+8 AC_Milan 33 16 12 1899
+9 Juventus 33 01 11 1897
+10 ParisSG 28 12 08 1970
+11 Sheffield 23 22 03 1857
+12 MnchstrCty 28 01 08 1880
